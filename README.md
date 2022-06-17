@@ -32,20 +32,33 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
 
 ### PROCEDURE:
-
+open the robot analyzer software.
+select the robot and its degrees of freedom.
+change the values with the link length whenever necessary.
+simulate the model for forward kinematics.
+pick the graph between the link and the joints.
+update the DH parameters of the link configuration and endeffector configuration.
 
 
 
 
 ### SIMULATION 
- 
- 
- 
- 
- 
- 
+ ### 6DOF
+ ### KUKA KRS ARC ROBOT
+![an1](https://user-images.githubusercontent.com/94175324/174300266-d767c753-5c38-4238-b398-41c3793a6601.png)
+![ana2](https://user-images.githubusercontent.com/94175324/174300290-bb1c5289-3231-4416-b40b-4f0188983d55.png)
+### 4DOF
+ ![4](https://user-images.githubusercontent.com/94175324/174301500-fbe2f00a-592b-4588-9922-977d3100e394.png)
+![4 2](https://user-images.githubusercontent.com/94175324/174301605-9585253f-ba7d-4150-a90a-21b4a94301d0.png)
+
  
  ### PLOT 
+ ### 6DOF GRAPH
+ ![ana](https://user-images.githubusercontent.com/94175324/174300224-d8616eae-3e32-4982-9426-ec60ea2092cc.png)
+### 4DOF GRAPH
+![4 1](https://user-images.githubusercontent.com/94175324/174301744-3a6b0fd9-c736-4c15-a533-2d92dee074ab.png)
+
+
  
  
  
@@ -56,8 +69,6 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
  
  
- 
- 
 
  
  
@@ -75,4 +86,6 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 
 
-### RESULTS :  
+# RESULT: 
+
+
