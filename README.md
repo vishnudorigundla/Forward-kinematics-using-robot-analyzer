@@ -42,7 +42,7 @@ update the DH parameters of the link configuration and endeffector configuration
 
 
 
-### SIMULATION 
+### SIMULATION :
  ### 6DOF
  ### KUKA KRS ARC ROBOT
 ![ana2](https://user-images.githubusercontent.com/94175324/174300290-bb1c5289-3231-4416-b40b-4f0188983d55.png)
@@ -52,7 +52,7 @@ update the DH parameters of the link configuration and endeffector configuration
 ![4 2](https://user-images.githubusercontent.com/94175324/174301605-9585253f-ba7d-4150-a90a-21b4a94301d0.png)
 
  
- ### PLOT 
+ ### PLOT :
  ### 6DOF GRAPH
  ![ana](https://user-images.githubusercontent.com/94175324/174300224-d8616eae-3e32-4982-9426-ec60ea2092cc.png)
 ### 4DOF GRAPH
